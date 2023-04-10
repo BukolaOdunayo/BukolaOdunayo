@@ -12,7 +12,7 @@ I bring a unique blend of technical skills and creative problem-solving abilitie
 
 * Sofar, I've completed  projects and internships while remaining committed to staying abreast of the latest trends and technologies in my field. I am always eager to participate in data analysis projects. Feel free to connect with me on [Linkedin](www.linkedin.com/in/ogunjimi-bukola) and [Twitter](https://twitter.com/Oluwabukola0).
 
-Also, check out my Medium page, where I document my process and experiences as a Data Analyst.
+Also, check out my [Medium] (https://medium.com/@Bukola-Ogunjimi) page, where I document my process and experiences as a Data Analyst.
 
 
 <!--

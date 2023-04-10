@@ -2,7 +2,7 @@
 
 I'm Bukola Ogunjimi. I'm a data analyst passionate about uncovering valuable insights from data and data storytelling. 
 
-I am proficient in R Programming Language, SQL, Python, Excel, Google Sheets, Tableau, and Bigquery,I have ample experience using these tools for 
+I am proficient in R Programming Language, SQL, Python, Excel, Google Sheets, and Tableau, I have ample experience using these tools for 
 manipulating, analyzing, and visualizing complex data sets.
 I bring a unique blend of technical skills and creative problem-solving abilities to any data challenge.
 

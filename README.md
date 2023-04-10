@@ -10,7 +10,7 @@ I bring a unique blend of technical skills and creative problem-solving abilitie
 
 * Currently, I am on the lookout for opportunities to apply my skills and knowledge in an Junior Data Analyst position or an Internship. My technical prowess aside, I am adept at collaborating with colleagues from different departments to achieve successful project outcomes.
 
-* Sofar, I've completed  projects and internships while remaining committed to staying abreast of the latest trends and technologies in my field. I am always eager to participate in data analysis projects. Feel free to connect with me on [Linkedin](www.linkedin.com/in/ogunjimi-bukola) and [Twitter](https://twitter.com/Oluwabukola0).
+* So far, I've completed  projects and internships while remaining committed to staying abreast of the latest trends and technologies in my field. I am always eager to participate in data analysis projects. Feel free to connect with me on [Linkedin](www.linkedin.com/in/ogunjimi-bukola) and [Twitter](https://twitter.com/Oluwabukola0).
 
 Also, check out my [medium](https://medium.com/@Bukola-Ogunjimi) page, where I document my process and experiences as a Data Analyst.
 
